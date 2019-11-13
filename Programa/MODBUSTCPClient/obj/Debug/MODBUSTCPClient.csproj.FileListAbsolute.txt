@@ -1,0 +1,48 @@
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe.config
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Form1.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Properties.Resources.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.GenerateResource.Cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\bin\Debug\EasyModbus.dll
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csprojAssemblyReference.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CoreCompileInputs.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\MODBUS TCP\Programa\MODBUSTCPClient\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CopyComplete
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csprojAssemblyReference.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Form1.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Properties.Resources.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.GenerateResource.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CoreCompileInputs.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe.config
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\bin\Debug\EasyModbus.dll
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 21\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CopyComplete
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe.config
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\EasyModbus.dll
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csprojAssemblyReference.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Form1.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Properties.Resources.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.GenerateResource.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CoreCompileInputs.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CopyComplete
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.pdb
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe.config
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.exe
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\MODBUSTCPClient.pdb
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\bin\Debug\EasyModbus.dll
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csprojAssemblyReference.cache
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Form1.resources
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.Properties.Resources.resources
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.GenerateResource.cache
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.csproj.CopyComplete
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.exe
+G:\Meu Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 27\Programa\MODBUSTCPClient\obj\Debug\MODBUSTCPClient.pdb
